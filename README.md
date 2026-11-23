@@ -4,9 +4,12 @@ A dark-themed React Native (Expo) list app that shows a collection of video game
 
 Built for **C346 Mobile App Development - Week 5, Exercise 4** (FlatList & SectionList).
 
-<p align="center">
-  <img src="screenshot.png" alt="Game Library app screenshot" width="300" />
-</p>
+<img width="684" height="1599" alt="image" src="https://github.com/user-attachments/assets/87405ae8-7720-44f5-a378-d86924b125cc" />
+
+
+
+https://github.com/user-attachments/assets/1e612bc0-0133-4e55-81ed-ef051727e543
+
 
 ---
 
